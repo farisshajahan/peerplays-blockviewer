@@ -1,0 +1,12 @@
+{
+  "name": "peerplays-blockviewer",
+  "version": "1.0.0",
+  "description": "A sample practise project to work on the peerplays blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/farisshajahan/peerplays-blockviewer.git",
+  "author": "Faris Shajahan <farisshajahan@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "peerplaysjs-lib": "^0.6.4"
+  }
+}
